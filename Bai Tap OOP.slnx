@@ -1,6 +1,12 @@
 <Solution>
   <Project Path="Bai 1/Bai 1.csproj" />
+  <Project Path="Bai 10/Bai 10.csproj" />
   <Project Path="Bai 2/Bai 2.csproj" />
   <Project Path="Bai 3/Bai 3.csproj" />
   <Project Path="Bai 4/Bai 4.csproj" />
+  <Project Path="Bai 5/Bai 5.csproj" />
+  <Project Path="Bai 6/Bai 6.csproj" />
+  <Project Path="Bai 7/Bai 7.csproj" />
+  <Project Path="Bai 8/Bai 8.csproj" />
+  <Project Path="Bai 9/Bai 9.csproj" />
 </Solution>
